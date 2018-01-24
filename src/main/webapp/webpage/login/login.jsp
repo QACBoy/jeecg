@@ -11,7 +11,8 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta charset="utf-8" />
-  <title><t:mutiLang langKey="jeect.platform"/></title>
+  <%--<title><t:mutiLang langKey="jeect.platform"/></title>--%>
+  <title> 东万晟 </title>
    <link rel="shortcut icon" href="images/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <!-- bootstrap & fontawesome -->
@@ -121,7 +122,7 @@
                 </form>
               </div>
             </div>
-            <div class="center"><h4 class="blue" id="id-company-text">&copy; 东万晟 </h4></div>
+            <%--<div class="center"><h4 class="blue" id="id-company-text">&copy; 东万晟 </h4></div>--%>
             <div class="navbar-fixed-top align-right">
               <br />
               &nbsp;

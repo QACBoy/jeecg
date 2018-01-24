@@ -11,7 +11,7 @@
 
 <html>
 <head>
-<title>东万晟</title>
+<title> 东万晟 </title>
     <link rel="shortcut icon" href="resources/fc/images/icon/favicon.ico">
     <script src=<%=langurl%> type="text/javascript"></script>
     <!--[if lt IE 9]>
@@ -74,11 +74,11 @@
         </ul>
     </div>
 
-    <div class="copyright ">
+    <%--<div class="copyright ">
     	<span>&copy; 东万晟
-            <%--<span class="tip"><a href="#" title=JEECG 演示系统>jeecg</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=JEECG 演示系统>jeecg</a></span>--%>
+            &lt;%&ndash;<span class="tip"><a href="#" title=JEECG 演示系统>jeecg</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=JEECG 演示系统>jeecg</a></span>&ndash;%&gt;
         </span>
-    </div>       
+    </div>  --%>
 </div>
 </form>
 
